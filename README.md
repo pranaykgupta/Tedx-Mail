@@ -1,2 +1,2 @@
 # Tedx-Mail
-A repo made for separating the email part of the backend of the Tedx Website
+A repo made for the sending email part of the Tedx Website
